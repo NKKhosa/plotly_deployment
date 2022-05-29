@@ -1,0 +1,14 @@
+body {
+    color: #4E2F28;
+}
+.jumbotron {
+    background-image: url("../images/bellyButton.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+@font-face {font-family: "danbury";
+    src: url(DanburyCaps_PERSONAL_USE_ONLY.otf);
+}
+
+h1, h5, p {font-family: "danbury";}
